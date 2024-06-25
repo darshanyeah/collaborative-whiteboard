@@ -23,7 +23,7 @@ const Home = (): JSX.Element => {
           Login to collaborate
         </Link>
       </div>
-      <div className="col-span-3 flex flex-col">
+      <div className="col-span-3 flex flex-col items-center">
         <Image
           src="/png/landing_hero.png"
           alt="login"
