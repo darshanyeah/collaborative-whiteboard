@@ -1,6 +1,6 @@
 # Collaborative Whiteboard
 
-This is a real-time collaborative whiteboard application built using React, Next.js, Node.js, MongoDB, and Socket.IO.
+This is a real-time collaborative whiteboard application built using React, Next.js, Node.js, MongoDB, Socket.IO and Tailwindcss.
 
 ## Features
 
@@ -17,3 +17,4 @@ This is a real-time collaborative whiteboard application built using React, Next
 - Express (back-end)
 - MongoDB (database)
 - Socket.IO (real-time communication)
+- Tailwindcss
